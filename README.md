@@ -45,17 +45,4 @@ npm start
 
 Open in browser → http://localhost:3000
 
-🧩 Folder Structure
-Educity/
-│
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Page-level components
-│   ├── assets/          # Images, icons, etc.
-│   ├── App.js           # Main app component
-│   └── index.js         # Entry point
-│
-├── public/
-│   └── index.html
-│
-└── package.json
+
