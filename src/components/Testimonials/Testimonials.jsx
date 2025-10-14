@@ -43,8 +43,8 @@ const Testimonials = () => {
                            
                         </div>
                          <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque cum voluptatibus accusamus. Facilis, quam, explicabo ea pariatur neque ipsam
-                                 animi maiores dicta fugit recusandae repellendus velit praesentium aperiam? Numquam, reiciendis.
+                                The educational program is well-designed, covering core concepts with real-world applications. It helps students
+                                 build strong technical skills and enhances problem-solving through interactive sessions and projects.
                             </p>
                     </div>
                 </li>
@@ -59,8 +59,8 @@ const Testimonials = () => {
                             
                         </div>
                         <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque cum voluptatibus accusamus. Facilis, quam, explicabo ea pariatur neque ipsam
-                                 animi maiores dicta fugit recusandae repellendus velit praesentium aperiam? Numquam, reiciendis.
+                               The educational program is well-designed, covering core concepts with real-world applications. It helps students
+                                build strong technical skills and enhances problem-solving through interactive sessions and projects.
                             </p>
                     </div>
                 </li>
@@ -75,8 +75,8 @@ const Testimonials = () => {
                            
                         </div>
                         <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque cum voluptatibus accusamus. Facilis, quam, explicabo ea pariatur neque ipsam
-                                 animi maiores dicta fugit recusandae repellendus velit praesentium aperiam? Numquam, reiciendis.
+                               The educational program is well-designed, covering core concepts with real-world applications. It helps students
+                                build strong technical skills and enhances problem-solving through interactive sessions and projects.
                             </p>
                     </div>
                 </li>
@@ -91,8 +91,8 @@ const Testimonials = () => {
                             
                         </div>
                         <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque cum voluptatibus accusamus. Facilis, quam, explicabo ea pariatur neque ipsam
-                                 animi maiores dicta fugit recusandae repellendus velit praesentium aperiam? Numquam, reiciendis.
+                                The educational program is well-designed, covering core concepts with real-world applications. It helps students
+                                 build strong technical skills and enhances problem-solving through interactive sessions and projects.
                             </p>
                     </div>
                 </li>

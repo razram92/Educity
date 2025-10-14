@@ -15,8 +15,8 @@ const About = () => {
       <div className="about-right">
         <h3>About university</h3>
         <h2>JSSATE NOIDA Uttar pradesh</h2>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore, numquam repudiandae reiciendis laborum ullam iste quaerat architecto fugiat 
-            cupiditate assumenda sint culpa excepturi autem! Praesentium accusantium itaque accusamus in pariatur?</p>
+        <p>JSS Academy of Technical Education is a renowned institution committed to providing quality technical education, fostering innovation,
+           research, and holistic development, while preparing students for successful careers and global challenges.</p>
       </div>
     </div>
   )

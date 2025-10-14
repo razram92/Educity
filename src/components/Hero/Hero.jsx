@@ -7,8 +7,9 @@ const Hero = () => {
     <div className='hero container'>
       <div className='hero-text'>
        <h1>We Ensure the better education for better world</h1>
-       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga molestiae tenetur corporis labore fugiat officia veniam magni
-         facilis dolores nesciunt quidem qui magnam quam quod rem in sequi, at totam.</p>
+       <p>Edusity is an interactive educational website that provides high-quality learning resources, video 
+        lectures, quizzes, and notes for students of all levels. It helps learners strengthen concepts, track progress,
+         and prepare for exams efficiently. With engaging content and personalized learning paths, EduQuest makes studying simple, accessible, and enjoyable for everyone.</p>
          <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
       </div>
     </div>

@@ -38,13 +38,12 @@ const Contact = () => {
       <div className="contact-col">
         <h3>Send us a message<img src={msg_icon} alt="" /></h3>
         
-        <p>Lorem ipsum dolor sit amet, consectetur
-             adipisicing elit. Quam voluptatibus quis explicabo ullam aspernatur asperiores temporibus 
-             autem dolor ipsam, quibusdam doloremque porro deleniti voluptatum ad id qui? Totam, rem minus.</p>
+        <p>Get in touch with us! Whether you have questions, feedback, or need assistance, we are here to help.
+           Fill out the contact form with your details and message, and our team will respond promptly to your inquiry.</p>
              <ul>
-                <li> <img src={mail_icon} alt="" /> Contact@razram92@gmail.com </li>
-                <li> <img src={phone_icon} alt="" /> +1 990-878-987 </li>
-                <li> <img src={location_icon} alt="" /> Panwari Mahobha(210429) <br/>UP, I </li>
+                <li> <img src={mail_icon} alt="" /> rohitatcollege22@gmail.com </li>
+                <li> <img src={phone_icon} alt="" /> +91 990-878-987 </li>
+                <li> <img src={location_icon} alt="" /> Sec 62 Noida(201301) <br/>UP, India </li>
                 
              </ul>
       </div>
